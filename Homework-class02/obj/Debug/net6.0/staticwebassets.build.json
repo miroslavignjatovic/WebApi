@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "Hash": "Ec1z7CPWr9Je5vkHYaw6KrwVoZBFi5+5JQ49rM15lc8=",
+  "Source": "Homework-class02",
+  "BasePath": "_content/Homework-class02",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Homework-class02\\wwwroot",
+      "Source": "Homework-class02",
+      "ContentRoot": "E:\\Miroslav\\WebAPI\\Homework-Class02\\Homework-class02\\wwwroot\\",
+      "BasePath": "_content/Homework-class02",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "E:\\Miroslav\\WebAPI\\Homework-Class02\\Homework-class02\\wwwroot\\index.html",
+      "SourceId": "Homework-class02",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Miroslav\\WebAPI\\Homework-Class02\\Homework-class02\\wwwroot\\",
+      "BasePath": "_content/Homework-class02",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "E:\\Miroslav\\WebAPI\\Homework-Class02\\Homework-class02\\wwwroot\\Script.js",
+      "SourceId": "Homework-class02",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Miroslav\\WebAPI\\Homework-Class02\\Homework-class02\\wwwroot\\",
+      "BasePath": "_content/Homework-class02",
+      "RelativePath": "Script.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Script.js"
+    }
+  ]
+}
